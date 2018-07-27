@@ -31,7 +31,7 @@ To build this project, you need the following items:
 
 Gather your parts then follow the schematics below.
 
-![favoriot](https://www.favoriot.com/wp-content/uploads/2017/03/favoriot-1.png)
+![favoriot](https://raw.githubusercontent.com/LintangWisesa/Arduino_MKR1000_Favoriot/master/MKR1000_Favoriot_Schematics.png)
 
 #
 
@@ -114,6 +114,8 @@ void loop() {
 
 ### **5. Have Fun!** :sunglasses:
 Now you can monitor your potentiometer & DHT11 sensor every 5 seconds on Favoriot data stream menu, and create data visualization on graph section. For more information about Favoriot, read its full documentation: [click here](https://platform.favoriot.com/tutorial/).
+
+![favoriot_graph](https://raw.githubusercontent.com/LintangWisesa/Arduino_MKR1000_Favoriot/master/MKR1000_Favoriot_Graph.png)
 
 #
 
