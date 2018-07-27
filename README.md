@@ -112,8 +112,8 @@ void loop() {
 
 #
 
-### **5. Have Fun!** :joy:
-Now you can monitor your potentiometer & DHT11 sensor every 5 seconds on Favoriot dashboard. For more information about Favoriot, read its full documentation: [click here](https://platform.favoriot.com/tutorial/).
+### **5. Have Fun!** :sunglasses:
+Now you can monitor your potentiometer & DHT11 sensor every 5 seconds on Favoriot data stream menu, and create data visualization on graph section. For more information about Favoriot, read its full documentation: [click here](https://platform.favoriot.com/tutorial/).
 
 #
 
