@@ -117,6 +117,12 @@ Now you can monitor your potentiometer & DHT11 sensor every 5 seconds on Favorio
 
 ![favoriot_graph](https://raw.githubusercontent.com/LintangWisesa/Arduino_MKR1000_Favoriot/master/MKR1000_Favoriot_Graph.png)
 
+__*My other tutorials on Favoriot:*__
+- [ESP8266 & Favoriot](https://github.com/LintangWisesa/ESP8266_Favoriot)
+- [ESP32 & Favoriot](https://github.com/LintangWisesa/ESP32_Favoriot)
+- [RobotDyn Uno+WiFi & Favoriot](https://github.com/LintangWisesa/RobotDyn_UnoWiFi_Favoriot)
+- [Arduino MKR1000 & Favoriot](https://github.com/LintangWisesa/Arduino_MKR1000_Favoriot)
+
 #
 
 #### Lintang Wisesa :love_letter: _lintangwisesa@ymail.com_
